@@ -1,6 +1,6 @@
 ![Banner](bannerLinkedIn.png)
 
-Hi 👋 My name is Andy O'Dwyer
+Hi 👋 My name is Andrew O'Dwyer
 =============================
 
 I’m a Junior Full Stack Developer and Designer currently completing a \[Full-Stack Developer Diploma with Code Institute\](https://codeinstitute.net/ie/full-stack-software-development-diploma/). With a degree in Fine Art, Design and Digital Imaging, I design and create user focused solutions.
