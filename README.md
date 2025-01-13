@@ -8,9 +8,9 @@ I’m a Junior Full Stack Developer and Designer currently completing a [Full-St
 * 🌍  I'm based in Cork, Ireland
 * 🖥️  See my portfolio at [www.behance.net/andrewodwyer](http://www.behance.net/andrewodwyer)
 * ✉️  You can contact me at [andrewodwyer.aod@gmail.com](mailto:andrewodwyer.aod@gmail.com)
-* 🚀  I'm currently working on [THE WORD](http://events-blog-f44bf5c7d7d5.herokuapp.com/)
+* 🚀  I'm currently working on [Vintage Drums](https://vintage-drum-store-6ce105a1b74f.herokuapp.com/)
 * 🧠  I'm learning E-commerce
-* ⚡  It's all about design!
+* ⚡  It's all about The User!
 
 ### Skills
 
