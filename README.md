@@ -31,13 +31,36 @@ I’m a Junior Full Stack Developer and Designer currently completing a [Full-St
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Andrewodwyer/vintage_drums" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrewodwyer&repo=vintage_drums&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" />
+<div width="100%" align="center">
+  <a href="https://github.com/Andrewodwyer/vintage_drums" align="left">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrewodwyer&repo=vintage_drums&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
 
-<div width="100%" align="center"><a href="https://github.com/Andrewodwyer/City-Events-Blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrewodwyer&repo=City-Events-Blog&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Andrewodwyer/project3-battleships" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrewodwyer&repo=project3-battleships&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/Andrewodwyer/City-Events-Blog" align="right">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrewodwyer&repo=City-Events-Blog&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+
+</div>
+
+<div width="100%" align="center">
+
+<a href="https://github.com/Andrewodwyer/project3-battleships" align="left">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrewodwyer&repo=project3-battleships&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+
+<a href="https://github.com/Andrewodwyer/Star-academy" align="right">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrewodwyer&repo=Star-academy&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+
+</div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Andrewodwyer/Star-academy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrewodwyer&repo=Star-academy&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Andrewodwyer/Cork-City-Ghost-Tours" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrewodwyer&repo=Cork-City-Ghost-Tours&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+  <a href="https://github.com/Andrewodwyer/Cork-City-Ghost-Tours" align="left">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrewodwyer&repo=Cork-City-Ghost-Tours&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+</div>
 
 <br /><br /><br /><br /><br />
 
