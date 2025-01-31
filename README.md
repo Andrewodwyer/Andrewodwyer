@@ -10,7 +10,7 @@ I’m a Junior Full Stack Developer and Designer currently completing a [Full-St
 * ✉️  You can contact me at [andrewodwyer.aod@gmail.com](mailto:andrewodwyer.aod@gmail.com)
 * 🚀  I'm currently working on [Vintage Drums](https://vintage-drum-store-6ce105a1b74f.herokuapp.com/)
 * 🧠  I'm learning E-commerce
-* ⚡  It's all about The User!
+* ⚡  User-centered design and developement
 
 ### Skills
 
