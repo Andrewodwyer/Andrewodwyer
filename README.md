@@ -65,7 +65,7 @@ I’m a Junior Full Stack Developer and Designer currently completing a [Full-St
 <hr>
 
 ### Live Links
-#### [![Vintage Drums](W-favicon.ico) Vintage Drums](https://vintage-drum-store-6ce105a1b74f.herokuapp.com/) 
+#### [![Vintage Drums](favicon.ico) Vintage Drums](https://vintage-drum-store-6ce105a1b74f.herokuapp.com/) 
   - A full-stack eCommerce platform allowing users to browse products, manage carts, and make payments.
 #### [![THE WORD](W-favicon.ico) THE WORD](https://events-blog-f44bf5c7d7d5.herokuapp.com/) 
   - An events app that allows user to view event listings and create their own events.
