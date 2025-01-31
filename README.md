@@ -1,4 +1,4 @@
-![Banner](bannerLinkedIn.png)
+![Banner](BannerLinkedIn.png)
 
 Hi 👋 I'm Andy
 =============================
