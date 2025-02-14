@@ -3,7 +3,7 @@
 Hi 👋 I'm Andy
 =============================
 
-I’m a Junior Full Stack Developer and Designer currently completing a [Full-Stack Developer Diploma with Code Institute](https://codeinstitute.net/ie/full-stack-software-development-diploma/). With a degree in Fine Art, Design and Digital Imaging, I design and create user focused solutions.
+I’m a Junior Software Developer and UX/UI Designer, recently awarded a Diploma in [Full-Stack Developement from The Code Institute](https://codeinstitute.net/ie/full-stack-software-development-diploma/). With a degree in Fine Art, Design and Digital Imaging, I design and create user focused solutions.
 
 * 🌍  I'm based in Cork, Ireland
 * 🖥️  See my portfolio at [www.behance.net/andrewodwyer](http://www.behance.net/andrewodwyer)
